@@ -7,3 +7,4 @@ if money > not_money:
     print('ваша рентабельность ', round(money / rent))
 else:
     print('вы работаете с убытками')
+

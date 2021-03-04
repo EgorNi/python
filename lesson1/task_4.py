@@ -6,11 +6,3 @@ while number > 0:
     if number1 > number3:
         number3 = number1
 print(number3)
-
-
-
-
-
-
-
-
