@@ -4,4 +4,3 @@ minutes = time % 60
 seconds = time % 10
 print('переформатируем в привычный формат времени')
 print(f'{hours}:{minutes}:{seconds}')
-

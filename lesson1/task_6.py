@@ -6,4 +6,3 @@ while day_success > day_start:
     day_start *= 1.1
     count += 1
 print(count)
-
